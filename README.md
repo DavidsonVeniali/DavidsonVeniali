@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![DavidsonVeniali github stats](https://github-readme-stats.vercel.app/api?username=DavidsonVeniali )](https://github.com/DavidsonVeniali /github-readme-stats)
-
+![DavidsonVeniali github stats](https://github-readme-stats.vercel.app/api?username=DavidsonVeniali )
 <!--
 **DavidsonVeniali/DavidsonVeniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
