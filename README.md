@@ -1,5 +1,8 @@
-### Hi there 👋
+### About me 👋
 
+ Hi, my name is Davidson, I am a student of information systems at the Federal University of Espirito Santo (UFES), my passion for programming led me to my first contact with C and soon after I learned python, JS, among others. I currently work as a Wordpress developer at Andaluz
+ 
+### Github Stats
 ![DavidsonVeniali github stats](https://github-readme-stats.vercel.app/api?username=DavidsonVeniali&show_icons=true&theme=radical)
 <!--
 **DavidsonVeniali/DavidsonVeniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
